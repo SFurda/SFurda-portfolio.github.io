@@ -1,2 +1,2 @@
-# SFurda-portfolio.github.io
+# SFurda-portfolio
 A portfolio to find a job
